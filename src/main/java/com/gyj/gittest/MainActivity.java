@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("git2");
         System.out.println("git3");
+        System.out.println("mastertwo test");
     }
 }
